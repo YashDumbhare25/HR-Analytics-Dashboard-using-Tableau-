@@ -1,6 +1,6 @@
 # HR Analytics Dashboard
 
-![HR Analytics Dashboard](images/HR%20Analytics%20Dashboard%20(1).png)
+![HR Analytics Dashboard](images/HR Analytics Dashboard (1).png)
 
 This Tableau project provides a comprehensive visualization of HR data to help understand employee attrition patterns, workforce demographics, and job satisfaction levels across various departments, education fields, and age groups.
 
